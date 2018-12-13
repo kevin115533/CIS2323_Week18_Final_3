@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Do Nothing App</string>
+    <string name="does_nothing">DOES NOTHING</string>
+    <string name="send_box">Hello Mr. Rockers</string>
+</resources>
